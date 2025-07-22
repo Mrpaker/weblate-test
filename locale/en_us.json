@@ -2,5 +2,6 @@
     "hello": "Hello",
     "world": "World",
     "welcome": "Welcome to the world of React",
-    "user": "user"
+    "user": "user",
+    "user_name": "user_name"
 }
