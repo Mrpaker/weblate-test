@@ -1,4 +1,6 @@
 {
     "hello": "Hello",
-    "world": "World"
+    "world": "World",
+    "welcome": "Welcome to the world of React",
+    "user": "user"
 }
