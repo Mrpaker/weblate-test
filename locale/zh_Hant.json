@@ -1,6 +1,4 @@
 {
-    "hello": "你好0000 zh_tw",
-    "world": "世界  zh_tw",
     "api": {
         "createKey": {
             "success": "建立成功"
