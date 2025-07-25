@@ -18,5 +18,6 @@
     "aggregate.view.dimension.name.error8": "维度名称不能超过 {count} 个字符",
     "aggregate.view.dimension.name.error9": "维度名称不能超过 {count} 个字符",
     "aggregate.view.dimension.name.error10": "维度名称不能超过 {count} 个字符",
-    "main": "主页"
+    "main": "主页",
+    "center": "中心"
 }
