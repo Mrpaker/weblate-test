@@ -3,5 +3,9 @@
     "user": "utilisateur",
     "params": "L’adresse e-mail a été enregistrée, veuillez remplacer l’adresse e-mail par un lien ou <Link>{direct}</Link>",
     "c.a.bkc": "ABCCC",
-    "my.my.my": "mine"
+    "my.my.my": "mine",
+    "account.register.verify.tip": "Si vous acceptez l’invitation, un compte sera créé pour vous, ce qui signifie que vous acceptez les <ATrem>Conditions d’utilisation</ATrem> et <APrivacy>Politique de confidentialité</APrivacy>.",
+    "account.signin.jdy": "Se connecter avec un compte {productName}",
+    "aggregate.view.dimension.add.max.tip": "Un maximum de {count} dimensions peut être ajouté",
+    "aggregate.view.dimension.name.error": "Le nom de la dimension ne peut pas dépasser {count} caractères"
 }
