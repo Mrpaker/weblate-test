@@ -1,5 +1,7 @@
 {
-    "welcome": "",
-    "user": "",
-    "c.a.bkc": ""
+    "welcome": "歡迎來到 React 的世界",
+    "user": "使用者",
+    "c.a.bkc": "ABCCC公司",
+    "params": "郵箱已註冊，請更改郵箱為連結，或 <Link>{direct}</Link>",
+    "my.my.my": "礦山"
 }
