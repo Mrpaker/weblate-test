@@ -3,5 +3,9 @@
     "user": "utilizador",
     "c.a.bkc": "ABCC",
     "params": "O e-mail foi registrado, altere o e-mail para link ou <Link>{direct}</Link>",
-    "my.my.my": "mina"
+    "my.my.my": "mina",
+    "account.register.verify.tip": "Se você aceitar o convite, uma conta será criada para você, o que significa que você concorda e aceita os Termos de Serviço <ATrem></ATrem> e <APrivacy>Política de Privacidade</APrivacy>.",
+    "account.signin.jdy": "Faça login com uma conta {productName}",
+    "aggregate.view.dimension.add.max.tip": "Um máximo de dimensões {count} pode ser adicionado",
+    "aggregate.view.dimension.name.error": "O nome da dimensão não pode exceder {count} caracteres"
 }
