@@ -1,4 +1,7 @@
 {
-    "welcome": "",
-    "user": ""
+    "welcome": "欢迎来到 React 的世界",
+    "user": "用户",
+    "params": "邮箱已注册，请更改邮箱为链接，或 <Link>{direct}</Link>",
+    "c.a.bkc": "ABCCC公司",
+    "my.my.my": "矿山"
 }
