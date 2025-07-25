@@ -7,5 +7,15 @@
     "account.register.verify.tip": "Se você aceitar o convite, uma conta será criada para você, o que significa que você concorda e aceita os Termos de Serviço <ATrem></ATrem> e <APrivacy>Política de Privacidade</APrivacy>.",
     "account.signin.jdy": "Faça login com uma conta {productName}",
     "aggregate.view.dimension.add.max.tip": "Um máximo de dimensões {count} pode ser adicionado",
-    "aggregate.view.dimension.name.error": "O nome da dimensão não pode exceder {count} caracteres"
+    "aggregate.view.dimension.name.error": "O nome da dimensão não pode exceder {count} caracteres",
+    "aggregate.view.dimension.name.error1": "O nome da dimensão não pode exceder {count} caracteres",
+    "aggregate.view.dimension.name.error2": "O nome da dimensão não pode exceder {count} caracteres",
+    "aggregate.view.dimension.name.error3": "O nome da dimensão não pode exceder {count} caracteres",
+    "aggregate.view.dimension.name.error4": "O nome da dimensão não pode exceder {count} caracteres",
+    "aggregate.view.dimension.name.error5": "O nome da dimensão não pode exceder {count} caracteres",
+    "aggregate.view.dimension.name.error6": "O nome da dimensão não pode exceder {count} caracteres",
+    "aggregate.view.dimension.name.error7": "O nome da dimensão não pode exceder {count} caracteres",
+    "aggregate.view.dimension.name.error8": "O nome da dimensão não pode exceder {count} caracteres",
+    "aggregate.view.dimension.name.error9": "O nome da dimensão não pode exceder {count} caracteres",
+    "aggregate.view.dimension.name.error10": "O nome da dimensão não pode exceder {count} caracteres"
 }
