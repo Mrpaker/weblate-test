@@ -3,5 +3,9 @@
     "user": "user",
     "c.a.bkc": "abccc",
     "my.my.my": "mine",
-    "params": "The email has been registered, please change the email to link, or <Link>{direct}</Link>"
+    "params": "The email has been registered, please change the email to link, or <Link>{direct}</Link>",
+	"account.register.verify.tip": "If you accept the invitation, an account will be created for you, which means you agree and accept the <ATrem>Terms of Service</ATrem> and <APrivacy>Privacy Policy</APrivacy>.",
+	"account.signin.jdy": "Sign in with a {productName} Account",
+	"aggregate.view.dimension.add.max.tip": "A maximum of {count} dimensions can be added",
+	"aggregate.view.dimension.name.error": "Dimension name cannot exceed {count} characters"
 }
