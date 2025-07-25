@@ -1,4 +1,7 @@
 {
-    "welcome": "",
-    "user": ""
+    "welcome": "Bienvenue dans le monde de React",
+    "user": "utilisateur",
+    "params": "L’adresse e-mail a été enregistrée, veuillez remplacer l’adresse e-mail par un lien ou <Link>{direct}</Link>",
+    "c.a.bkc": "ABCCC",
+    "my.my.my": "mine"
 }
