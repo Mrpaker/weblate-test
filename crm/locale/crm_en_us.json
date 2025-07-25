@@ -2,5 +2,6 @@
     "welcome": "Welcome to the world of React",
     "user": "user",
     "c.a.bkc": "abccc",
-    "my.my.my": "mine"
+    "my.my.my": "mine",
+    "params": "The email has been registered, please change the email to link, or <Link>{direct}</Link>"
 }
