@@ -1,7 +1,7 @@
 {
     "welcome": "欢迎来到 React 的世界",
     "user": "用户",
-    "params": "邮箱已注册，请更改邮箱为链接，或 <Link>{direct}</Link>",
+    "params": "你们好",
     "c.a.bkc": "ABCCC公司",
     "my.my.my": "矿山",
     "account.register.verify.tip": "如果您接受邀请，将为您创建一个帐户，即表示您同意并接受 <ATrem>服务条款</ATrem> 和 <APrivacy>隐私政策</APrivacy>。",
