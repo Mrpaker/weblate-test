@@ -1,4 +1,5 @@
 {
     "test.company": "company",
-    "test.position": "Text position"
+    "test.position": "Text position",
+    "app": "app"
 }
