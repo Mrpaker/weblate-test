@@ -1,8 +1,9 @@
 {
     "test.company": "公司更新123",
     "test.position": "文本位置更新",
-    "app": "应用",
+    "app": "应用程序",
     "cytus": "赛特斯",
     "nice": "好的",
-    "happy": "开心"
+    "happy": "快乐的",
+    "end": "结尾"
 }
